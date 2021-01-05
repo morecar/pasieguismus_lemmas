@@ -1,0 +1,78 @@
+- type: word
+  lemma: pájaru, el
+  ipa: "'pɐxɐɾʊ"
+  sources: [Penny_S1, Penny_V3]
+  definitions:
+    - localized: 
+        spa: pájaro
+- type: word
+  lemma: pullu, il; +u
+  ipa: "'pʊʎʊ"
+  sources: [Penny_R2, Penny_S1, Penny_V3]
+  definitions:
+    - localized: 
+        spa: cría de una ave
+- type: word
+  lemma: pajarucu, el
+  ipa: "pɐxɐ'ɾʊkʊ"
+  sources: [Penny_P1, Penny_R2]
+  definitions:
+    - localized: 
+        spa: {{pullu, il, +u}}
+- type: word
+  lemma: pajarín, el
+  ipa: "paxa'ɾin"
+  sources: [Penny_P1, Penny_R2]
+  definitions:
+    - localized: 
+        spa: {{pullu, il; +u}}
+- type: word
+  lemma: picu, il
+  ipa: ["'pɪkʊ"]
+  sources: [Penny_S1, Penny_V3]
+  definitions:
+    - localized: 
+        spa: pico
+- type: word
+  lemma: picorra, la
+  ipa: ["pi'kora"]
+  sources: [Penny_R2, Penny_S1, Penny_V3]
+  definitions:
+    - localized: 
+        spa: cebo que lleva un pájaro en el pico
+- type: word
+  lemma: cañón
+  ipa: "ka'ɲon"
+  sources: [Penny_R2, Penny_V3]
+  definitions:
+    - localized: 
+        spa: Usado en plural. Cada una de las primeras plumas de las alas la cría de una ave
+
+
+- type: idiom
+  lemma: istar in karniru
+  ipa: "ɪn kɐr'nɪɾʊ"
+  source: [Penny_S1]
+  definitions:
+    - localized: 
+        spa: estar una cría de ave sin plumas
+- type: idiom
+  lemma: istar in pelu
+  ipa: "in 'pelu"
+  source: [Penny_P1]
+  definitions:
+    - localized: 
+        spa: estar una cría de ave sin plumas
+- type: idiom
+  lemma: istar en kañonis
+  ipa: "en "ka'ɲonis"
+  sources: [Penny_S1, Penny_V3]
+  definitions:
+    - localized: 
+        spa: tener una cría de ave sólo las primeras plumas de las alas
+
+      
+
+
+
+
