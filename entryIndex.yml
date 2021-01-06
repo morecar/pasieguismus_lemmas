@@ -18,14 +18,14 @@
   sources: [Penny_P1, Penny_R2]
   definitions:
     - localized: 
-        spa: {{pullu, il, +u}}
+        spa: "{{pullu, il, +u}}"
 - type: word
   lemma: pajarín, el
   ipa: "paxa'ɾin"
   sources: [Penny_P1, Penny_R2]
   definitions:
     - localized: 
-        spa: {{pullu, il; +u}}
+        spa: "{{pullu, il, +u}}"
 - type: word
   lemma: picu, il
   ipa: ["'pɪkʊ"]
@@ -65,14 +65,8 @@
         spa: estar una cría de ave sin plumas
 - type: idiom
   lemma: istar en kañonis
-  ipa: "en "ka'ɲonis"
+  ipa: "en ka'ɲonis"
   sources: [Penny_S1, Penny_V3]
   definitions:
     - localized: 
         spa: tener una cría de ave sólo las primeras plumas de las alas
-
-      
-
-
-
-
