@@ -1,0 +1,127 @@
+- code: GRAL
+  year: 2021
+  registeredBy: MMC
+  geotag: 
+    type: area
+    ##TEST
+    vertices: [[43.22428559277612, -3.821616442433647], [43.252432109671645, -3.7206541889561384], [43.12001872398301, -3.478048257061011], [43.086069154907456, -3.6287125040510033], [43.10157756331311, -3.9013997911920293]]
+- code: PENNY69_S1
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Cubía
+    municipality: Selaya
+    coordinates: [43.226211892911195, -3.7714567504660543]
+  informant:
+    initials: PG
+    age: 75
+    bio: "Padres de Bustantegua; sabe leer y escribir; sirvió como ama de cría con dos familias, con las cuales viajó"
+- code: PENNY69_S2
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Pisueña
+    municipality: Selaya
+    coordinates: [43.19071625029595, -3.7633996677488377]
+  informant:
+    initials: PG
+    age: 65
+    bio: "Ganadero; no sabe leer ni escribir"
+- code: PENNY69_S3
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Cubía
+    municipality: Selaya
+    coordinates: [43.226211892911195, -3.7714567504660543]
+  informant:
+    initials: TF
+    age: 80
+    bio: "Padres de Cubía; no sabe leer ni escribir; nunca ha salido del municipio"
+- code: PENNY69_R1
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Calseca
+    municipality: Calseca (Ruesga)
+    coordinates: [43.24102099298072, -3.6872367555959555]
+  informant:
+    initials: JPR
+    age: 55
+    bio: "Ganadero; sabe leer un poco"
+- code: PENNY69_R2
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Valamadera
+    municipality: San Roqui di Rumiera
+    coordinates: [43.23333252130369, -3.7220179160350715]
+  informant:
+    initials: PC
+    age: 68
+    bio: "Ganadero; nacido en Valamadera, de padres del municipio. Servicio militar."
+- code: PENNY69_P1
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: San Pedru
+    municipality: San Pedru del Romeral
+    coordinates: [43.114829381354205, -3.8180205849596054]
+  informant:
+    initials: ERL
+    age: 65
+    bio: "Padres de San Pedru; viuda; labores domésticasñ no sabe leer ni escribir; ha visitado Francia"
+- code: PENNY69_P2
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Bustalejín
+    municipality: San Pedru del Romeral
+    coordinates: [43.109968446373536, -3.7925994987705414]
+  informant:
+    initials: ASR
+    age: 92
+    bio: "Padres de Bustalejín; analfabeto; apenas ha viajado."
+- code: PENNY69_V1
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Yera
+    municipality: La Vega de Pas
+    coordinates: [43.13989958814954, -3.758541638480044]
+  informant:
+    initials: PDO
+    age: 72
+    bio: "Padres de la Vega; ganadero; no leer ni escribe; servicio militar; viajes cortos"
+- code: PENNY69_V2
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Pandiyu 
+    municipality: La Vega de Pas
+    coordinates: [43.145795579648194, -3.722151135774531]
+  informant:
+    initials: SF
+    age: 68
+    bio: "Esposa de TSP; no sabe leer ni escirbir; nunca ha salido de la Pasieguería; padres de Pandiyu"
+- code: PENNY69_V3
+  year: 1969
+  registeredBy: RJP
+  geotag: 
+    type: point
+    name: Pandiyu 
+    municipality: La Vega de Pas
+    coordinates: [43.145795579648194, -3.722151135774531]
+  informant:
+    initials: TSP
+    age: 70
+    bio: "Ganadero; apenas lee ni escribe; no ha viajado; no ha hecho servicio militar; padres de Pandiyu"

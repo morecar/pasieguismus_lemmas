@@ -3,11 +3,11 @@
   rawLemma: pájaru
   realizations:
     - ipa: "'pɐxɐɾʊ"
-      sources: [GRAL, PENNY_S1, PENNY_V3]
+      sources: [GRAL, PENNY69_S1, PENNY69_V3]
   definitions:
     - localized: 
         spa: pájaro
-      sources: [GRAL, PENNY_S1, PENNY_V3]
+      sources: [GRAL, PENNY69_S1, PENNY69_V3]
   tags: 
     pos: [NOUN]
 - type: word
