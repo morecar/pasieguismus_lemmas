@@ -8,8 +8,7 @@
     - localized: 
         spa: pájaro
       sources: [GRAL, PENNY69_S1, PENNY69_V3]
-  tags: 
-    pos: [pos:noun]
+  tags: ["pos:noun"]
 - type: word
   displayForm: pullu, il; +u
   rawLemma: pullu
@@ -21,8 +20,7 @@
     - localized: 
         spa: cría de una ave
       sources: [GRAL, PENNY69_R2, PENNY69_S1, PENNY69_V3]
-  tags: 
-    pos: [pos:noun]
+  tags: ["pos:noun"]
 - type: word
   displayForm: pajarucu, el
   rawLemma: pajarucu
@@ -35,8 +33,7 @@
       sources: [GRAL, PENNY69_P1, PENNY69_R2]
     - localized: 
         spa: " un {{pájaru, el}} de pequeño tamaño"
-  tags: 
-    pos: [pos:noun]
+  tags: ["pos:noun"]
 - type: word
   displayForm: pajarín, el
   rawLemma: pajarín
@@ -49,8 +46,7 @@
       sources: [PENNY69_P1, PENNY69_R2]
     - localized: 
         spa: " un {{pájaru, el}} de pequeño tamaño"
-  tags: 
-    pos: [pos:noun]
+  tags: ["pos:noun"]
 - type: word
   displayForm: picu, il
   rawLemma: picu
@@ -60,8 +56,7 @@
   definitions:
     - localized: 
         spa: pico
-  tags: 
-    pos: [pos:noun]
+  tags: ["pos:noun"]
 - type: word
   displayForm: picorra, la
   rawLemma: picorra
@@ -71,8 +66,7 @@
   definitions:
     - localized: 
         spa: cebo que lleva un pájaro en el pico
-  tags: 
-    pos: [pos:noun]
+  tags: ["pos:noun"]
 - type: word
   displayForm: cañón
   rawLemma: cañón
@@ -83,8 +77,7 @@
     - localized: 
         spa: Usado en plural. Cada una de las primeras plumas de las alas la cría de una ave
       sources: [PENNY69_R2, PENNY69_V3]
-  tags: 
-    pos: [pos:noun]
+  tags: ["pos:noun"]
 - type: word
   displayForm: bisuju, +u, a
   rawLemma: bisuju
@@ -103,8 +96,7 @@
   etymology: 
     - localized: 
         spa: "Del latín BIS OCULUM (dos ojos) > *bisoc'lum > *bisollu > bisoju. Las formas diptongadas siguen la forma asturleonesa, con diptingación ante yod, c.f. asturiano: _bisgüeyu_."
-  tags: 
-    pos: ["pos:adjective", "phon:metaphony_u", "etym:yod_diphthong"]
+  tags: ["pos:adjective", "phon:metaphony_u", "etym:yod_diphthong"]
 - type: word
   displayForm: de
   rawLemma: de
@@ -117,16 +109,16 @@
         spa: de
       sources: [GRAL, PENNY69_S1, PENNY69_V3]
       examples: 
-      - "sopa **de** fideu"
-      - "lechi **de** vaca"
+        - "sopa **de** fideu"
+        - "lechi **de** vaca"
   usage: 
-      - localized: 
-        spa: "Puede caer total o particialmente cuando sigue a una palabra terminada en vocal, como ocurre frecuentemente en la toponimia: _{{Castru (de) Valnera|topo/Castru Valnera}}_. Se recomienda mantener cuando se planteen casos de ambigüedad"
-      - localized:  
-        spa: "La forma cerrada _{{di}}_ se emplea para {{evitar el hiato|grammar/antihiática}} o en condiciones de {armonía vocálica|grammar/armonía de vocales}}"
-      - localized: 
-        spa: "La forma apocopada _{{d'}}_ se emplea para evitar ies en contacto. Ver " 
-  tags: ["pos:preposition"]["phon:atonic"]
+    - localized: 
+      spa: "Puede caer total o particialmente cuando sigue a una palabra terminada en vocal, como ocurre frecuentemente en la toponimia: _{{Castru (de) Valnera|topo/Castru Valnera}}_. Se recomienda mantener cuando se planteen casos de ambigüedad"
+    - localized:  
+      spa: "La forma cerrada _{{di}}_ se emplea para {{evitar el hiato|grammar/antihiática}} o en condiciones de {armonía vocálica|grammar/armonía de vocales}}"
+    - localized: 
+      spa: "La forma apocopada _{{d'}}_ se emplea para evitar ies en contacto. Ver " 
+  tags: ["pos:preposition","phon:atonic"]
   etymology:
     - localized: 
         spa: " Del latín DĒ (de, concerniente a, sobre, desde), del protoindoeuropeo *de."
@@ -140,8 +132,8 @@
     - localized: 
         spa: "{{de}}, forma plena y armonizada"
       examples: 
-      - "un pocu **di** cucíu"
-      - "un pocu **di** augua"
+        - "un pocu **di** cucíu"
+        - "un pocu **di** augua"
   usage: 
       - localized:  
         spa: "La forma cerrada _{{di}}_ se emplea para {{evitar el hiato|grammar/antihiática}} o en condiciones de {armonía vocálica|grammar/armonía de vocales}}"
@@ -149,7 +141,7 @@
         spa: "Puede caer cuando sigue a una palabra terminada en vocal (_un gutu (di) vinu_). Se recomienda mantener cuando se planteen casos de ambigüedad"
       - localized: 
         spa: "La forma reducida _{{d'}}_ se emplea para evitar ies en contacto" 
-  tags: ["pos:preposition"]["usage:armonized"]["phon:atonic"]
+  tags: ["pos:preposition","usage:armonized","phon:atonic"]
 - type: word
   displayForm: d'
   rawLemma: de
@@ -159,12 +151,12 @@
     - localized: 
         spa: "forma reducida de {{di}}"
       examples: 
-      - "es **d'**isi siñor"
-      - "tinta **d'**iscribir" 
+        - "es **d'**isi siñor"
+        - "tinta **d'**iscribir" 
   usage: 
       - localized: 
         spa: "Cuando antecede a i o a una hache seguida de i. _d'isti_"
-  tags: ["pos:preposition"] ["usage:reduced"]["phon:atonic"]
+  tags: ["pos:preposition","usage:reduced","phon:atonic"]
 - type: word
   displayForm: el
   rawLemma: el
@@ -174,16 +166,16 @@
     - localized: 
         spa: "Artículo determinado masculino singular, forma plena y abierta."
       examples: 
-      - "**el** prau"
-      - "**el** gatu"
+        - "**el** prau"
+        - "**el** gatu"
   usage: 
-      - localized: 
-          spa: "La forma reducida {{l}} se emplea seguida o antecedida de un apóstrofe cuando el artículo es precedido o seguido por una vocal, o hache muda seguida de vocal."
-      - localized:  
-          spa: "La forma cerada {{il}} se emplea en condiciones de armonía vocálica. Ver {{grammar/armonía de vocales}}"
-      - localized:
-          spa: "El artículo determinado masculino puede caer en contacto con la preposicion {{en}} cuando esta tiene significado locativo. _las vacas istán en prau_"
-  tags: ["pos:article"]["phon:atonic"]
+    - localized: 
+        spa: "La forma reducida {{l}} se emplea seguida o antecedida de un apóstrofe cuando el artículo es precedido o seguido por una vocal, o hache muda seguida de vocal."
+    - localized:  
+        spa: "La forma cerada {{il}} se emplea en condiciones de armonía vocálica. Ver {{grammar/armonía de vocales}}"
+    - localized:
+        spa: "El artículo determinado masculino puede caer en contacto con la preposicion {{en}} cuando esta tiene significado locativo. _las vacas istán en prau_"
+  tags: ["pos:article","phon:atonic"]
   etymology:
     - localized: 
         spa: "Latín vulgar ille (el), desde el latín clásico ILLE (aquel)"
@@ -196,16 +188,16 @@
     - localized: 
         spa: "Artículo determinado masculino singular, forma plena y armonizada. Ver {{el}}"
       examples: 
-      - "**il** lubu"
-      - "**il** pirru"
+        - "**il** lubu"
+        - "**il** pirru"
   usage: 
-      - localized:  
-          spa: "La forma cerada {{il}} se emplea en condiciones de armonía vocálica. Ver {{grammar/armonía de vocales}}"
-      - localized: 
-          spa: "La forma reducida {{l}} se emplea seguida o antecedida de un apóstrofe cuando el artículo es precedido o seguido por una vocal, o hache muda seguida de vocal"
-      - localized:
-          spa: "El artículo determinado masculino puede caer en contacto con la preposicion {{in}} cuando esta tiene significado locativo. _lus neñus juegan in riyu_"
-  tags: ["pos:article"]["usage:armonized"]["phon:atonic"]
+    - localized:  
+        spa: "La forma cerada {{il}} se emplea en condiciones de armonía vocálica. Ver {{grammar/armonía de vocales}}"
+    - localized: 
+        spa: "La forma reducida {{l}} se emplea seguida o antecedida de un apóstrofe cuando el artículo es precedido o seguido por una vocal, o hache muda seguida de vocal"
+    - localized:
+        spa: "El artículo determinado masculino puede caer en contacto con la preposicion {{in}} cuando esta tiene significado locativo. _lus neñus juegan in riyu_"
+  tags: ["pos:article", "usage:armonized","phon:atonic"]
 - type: word
   displayForm: l
   rawLemma: el
@@ -215,20 +207,20 @@
     - localized: 
         spa: "Artículo determinado masculino singular, forma reducida. Ver {{el}}"
       examples: 
-      - "**l'**ultimu"
-      - "**l'**otru" (neu)
-      - "ayer cortó**'l** árbul"
+        - "**l'**ultimu"
+        - "**l'**otru (neu)"
+        - "ayer cortó**'l** árbul"
     - localized: 
         spa: "Artículo determinado femenino singular, forma reducida. Ver {{la}}"
       examples: 
-      - "**l'**augua"
-      - "**l'**águila" 
-      - "**l'**habitación"
+        - "**l'**augua"
+        - "**l'**águila" 
+        - "**l'**habitación"
   usage: 
-      - localized: 
-          spa: "Forma masculina: si la palabra siguiente comienza por vocal o por hache seguida de vocal, se apostrofa siempre con ella (_l'últimu_, _l'hombri_), en caso contrario, cuando siga a una palabra acabada en vocal se apostrofará con esta _mi gusta'l cucíu_"
-  - localized: 
+    - localized: 
+        spa: "Forma masculina: si la palabra siguiente comienza por vocal o por hache seguida de vocal, se apostrofa siempre con ella (_l'últimu_, _l'hombri_), en caso contrario, cuando siga a una palabra acabada en vocal se apostrofará con esta _mi gusta'l cucíu_"
+    - localized: 
         spa: "Forma femenina: cuando la palabra comience por a-. Ver {{grammar/apostrofación}}"
-  tags: ["pos:article"]["usage:reduced"]["phon:atonic"]
+  tags: ["pos:article","usage:reduced","phon:atonic"]
 
 
