@@ -1,0 +1,26 @@
+- type: idiom
+  displayForm: istar in karniru
+  realizations:
+    - ipa: "ɪn kɐr'nɪɾʊ"
+      source: [PENNY69_S1]
+  definitions:
+    - localized: 
+        spa: estar una cría de ave sin plumas
+- type: idiom
+  displayForm: istar en pelu
+  realizations:
+    - ipa: "in 'pelu"
+      source: [PENNY69_P1]
+  definitions:
+    - localized: 
+        spa: estar una cría de ave sin plumas
+      source: [PENNY69_P1]
+- type: idiom
+  displayForm: istar en kañonis
+  realizations:
+    - ipa: "en ka'ɲonis"
+      sources: [PENNY69_S1, PENNY69_V3]
+  definitions:
+    - localized: 
+        spa: tener una cría de ave sólo las primeras plumas de las alas
+      sources: [PENNY69_S1, PENNY69_V3]
