@@ -94,8 +94,8 @@
         spa: bizco
       sources: [PENNY69_P1, PENNY69_S1]
   etymology: 
-    - localized: 
-        spa: "Del latín BIS OCULUM (dos ojos) > *bisoc'lum > *bisollu > bisoju. Las formas diptongadas siguen la forma asturleonesa, con diptingación ante yod, c.f. asturiano: _bisgüeyu_."
+    localized: 
+      spa: "Del latín BIS OCULUM (dos ojos) > *bisoc'lum > *bisollu > bisoju. Las formas diptongadas siguen la forma asturleonesa, con diptingación ante yod, c.f. asturiano: _bisgüeyu_."
   tags: ["pos:adjective", "phon:metaphony_u", "etym:yod_diphthong"]
 - type: word
   displayForm: de
@@ -120,8 +120,8 @@
       spa: "La forma apocopada _{{d'}}_ se emplea para evitar ies en contacto. Ver " 
   tags: ["pos:preposition","phon:atonic"]
   etymology:
-    - localized: 
-        spa: " Del latín DĒ (de, concerniente a, sobre, desde), del protoindoeuropeo *de."
+    localized: 
+      spa: " Del latín DĒ (de, concerniente a, sobre, desde), del protoindoeuropeo *de."
 - type: word
   displayForm: di
   rawLemma: de
@@ -177,8 +177,8 @@
         spa: "El artículo determinado masculino puede caer en contacto con la preposicion {{en}} cuando esta tiene significado locativo. _las vacas istán en prau_"
   tags: ["pos:article","phon:atonic"]
   etymology:
-    - localized: 
-        spa: "Latín vulgar ille (el), desde el latín clásico ILLE (aquel)"
+    localized: 
+      spa: "Latín vulgar ille (el), desde el latín clásico ILLE (aquel)"
 - type: word
   displayForm: il
   rawLemma: el
